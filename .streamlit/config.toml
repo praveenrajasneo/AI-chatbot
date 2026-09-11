@@ -1,12 +1,10 @@
-# Groq API (open-weights LLM inference)
-GROQ_API_KEY=
-GROQ_MODEL=qwen/qwen3.8-27b
+[theme]
+base = "dark"
+primaryColor = "#CC7A5C"
+backgroundColor = "#262624"
+secondaryBackgroundColor = "#2D2D2A"
+textColor = "#F2F0E9"
+font = "sans serif"
 
-# Hacker News (Algolia Search API) needs no credentials — nothing to set here.
-# Kept as a placeholder section in case you swap in a different social source later.
-
-# LangSmith observability
-LANGCHAIN_TRACING_V2=true
-LANGCHAIN_API_KEY=
-LANGCHAIN_PROJECT=grounded-research-agent
-LANGCHAIN_ENDPOINT=https://api.smith.langchain.com
+[client]
+toolbarMode = "minimal"
