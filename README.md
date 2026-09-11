@@ -1,4 +1,4 @@
-# Grounded Research Agent
+# QBee
 
 A LangGraph-orchestrated agentic research assistant that answers natural-language
 questions using **only live, retrieved, cited data** — never the LLM's own
